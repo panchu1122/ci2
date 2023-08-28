@@ -1,0 +1,2 @@
+Line 1 content for assessment2.txt
+Line 2 content for assessment2.txt
